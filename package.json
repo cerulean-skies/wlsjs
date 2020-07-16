@@ -1,6 +1,6 @@
 {
     "name": "@ceruleanblue/wlsjs",
-    "version": "1.0.10",
+    "version": "1.0.11",
     "main": "src/index.js",
     "requires": {
         "@whaleshares/wlsjs": "^0.1.8"
