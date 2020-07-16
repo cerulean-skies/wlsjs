@@ -5,5 +5,8 @@
     "requires": {
         "@whaleshares/wlsjs": "^0.1.8"
     },
+    "dependencies": {
+        "@whaleshares/wlsjs": "^0.1.8"
+    },
     "author": "ceruleanblue"
 }
