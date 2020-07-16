@@ -2,7 +2,7 @@
     "name": "@ceruleanblue/wlsjs",
     "version": "1.0.9",
     "main": "src/index.js",
-    "dependencies": {
+    "requires": {
         "@whaleshares/wlsjs": "^0.1.8"
     },
     "author": "ceruleanblue"
